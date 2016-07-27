@@ -1,4 +1,6 @@
-
+*{
+	 font-family: "FontAwesome", sans-serif;
+}
 input{
 	padding: 10px;
 }
@@ -56,7 +58,7 @@ height: 65%;
 }
 .banner h1{
 	color: #B0B0B0;
-	font-size: 30px;
+	font-size: 35px;
 	margin-top: 30px;
 
 }
@@ -168,7 +170,7 @@ height: 65%;
 	position: relative;
 }
 .ticket h3, h4, h5{
-	color: #D4D4D4;
+	color: #D1D1D1;
 	margin-bottom: 10px;
 }
 .ticket h2{
